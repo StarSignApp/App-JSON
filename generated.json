@@ -24,7 +24,7 @@
 			}
 
 		],
-		"Entertainment": [{
+		"entertainment": [{
 				"name": "YouTube Music",
 				"icon": "b5933c06d10d",
 				"version": "5.11.3",
