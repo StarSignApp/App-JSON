@@ -1,0 +1,36 @@
+{
+  "apps": {
+    "top": [
+      {
+        "name": "Top Albums",
+        "icon": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json",
+        "version": "2.0.0",
+        "bundleID": "com.apple.speed",
+        "description": "Speed"
+      },
+      {
+        "name": "Top Albums",
+        "id": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json",
+        "version": "2.0.0",
+        "bundleID": "com.apple.speed",
+        "description": "Speed"
+      }
+    ],
+    "social": [
+      {
+        "name": "Top Albums",
+        "id": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json",
+        "version": "2.0.0",
+        "bundleID": "com.apple.speed",
+        "description": "Speed"
+      },
+      {
+        "name": "Top Albums",
+        "id": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json",
+        "version": "2.0.0",
+        "bundleID": "com.apple.speed",
+        "description": "Speed"
+      }
+    ]
+  }
+}
