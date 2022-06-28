@@ -2,14 +2,14 @@
 	"apps": {
 
 		"top": [{
-				"name": "Top Albums",
-				"icon": "st-g8OX-eoz8Vwnd",
-				"version": "2.0.0",
-				"bundleID": "com.apple.speed",
-				"description": "Speed"
+				"name": "uYou+",
+				"icon": "d287b3d1b08d",
+				"version": "17.0.0",
+				"bundleID": "com.google.ios.youtube",
+				"description": "Tweaked YouTube for iOS 15.4 - 16.0. COntains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
 			},
 			{
-				"name": "Top Albums",
+				"name": "Spotify++",
 				"icon": "st-g8OX-eoz8Vwnd",
 				"version": "2.0.0",
 				"bundleID": "com.apple.speed",
