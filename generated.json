@@ -24,13 +24,7 @@
 			}
 
 		],
-		"entertainment": [{
-				"name": "YouTube Music",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
-			},
+		"entertainment": [
 			{
 				"name": "Kodi",
 				"icon": "cbe40c16491c",
@@ -39,7 +33,14 @@
 				"description": "Kodi iOS"
 			},
 			{
-				"name": "Mange Reader",
+				"name": "YouTube Music",
+				"icon": "b5933c06d10d",
+				"version": "5.11.3",
+				"bundleID": "com.google.ios.youtubemusic",
+				"description": "YT Music"
+			},
+			{
+				"name": "Manga Reader",
 				"icon": "f6a4b9853d11",
 				"version": "1.305",
 				"bundleID": "com.twyt.manhuawu",
