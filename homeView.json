@@ -1,0 +1,97 @@
+{
+    "apps": {
+
+        "top": [{
+                "name": "uYou+",
+                "icon": "d287b3d1b08d",
+                "version": "17.0.0",
+                "bundleID": "com.google.ios.youtube",
+                "description": "Tweaked YouTube for iOS 15.4 - 16.0. COntains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
+            },
+            {
+                "name": "Spotify++",
+                "icon": "st-g8OX-eoz8Vwnd",
+                "version": "2.0.0",
+                "bundleID": "co.starfiles.1617827720",
+                "description": "Spotify with enhancements"
+            },
+            {
+                "name": "Enmity",
+                "icon": "5b4ea5d567ef",
+                "version": "131.0",
+                "bundleID": "com.hammerandchisel.discord",
+                "description": "Discord with tweaks"
+            }
+
+        ],
+        "Social Media": [{
+                "name": "Kodi",
+                "icon": "cbe40c16491c",
+                "version": "19.4",
+                "bundleID": "org.xbmc.kodi-ios",
+                "description": "Kodi iOS"
+            },
+            {
+                "name": "YouTube Music",
+                "icon": "b5933c06d10d",
+                "version": "5.11.3",
+                "bundleID": "com.google.ios.youtubemusic",
+                "description": "YT Music"
+            },
+            {
+                "name": "Manga Reader",
+                "icon": "f6a4b9853d11",
+                "version": "1.305",
+                "bundleID": "com.twyt.manhuawu",
+                "description": "Mange Reader App"
+            }
+        ],
+        "entertainment": [{
+                "name": "Kodi",
+                "icon": "cbe40c16491c",
+                "version": "19.4",
+                "bundleID": "org.xbmc.kodi-ios",
+                "description": "Kodi iOS"
+            },
+            {
+                "name": "YouTube Music",
+                "icon": "b5933c06d10d",
+                "version": "5.11.3",
+                "bundleID": "com.google.ios.youtubemusic",
+                "description": "YT Music"
+            },
+            {
+                "name": "Manga Reader",
+                "icon": "f6a4b9853d11",
+                "version": "1.305",
+                "bundleID": "com.twyt.manhuawu",
+                "description": "Mange Reader App"
+            }
+        ],
+        "games": [{
+                "name": "Kodi",
+                "icon": "cbe40c16491c",
+                "version": "19.4",
+                "bundleID": "org.xbmc.kodi-ios",
+                "description": "Kodi iOS"
+            },
+            {
+                "name": "YouTube Music",
+                "icon": "b5933c06d10d",
+                "version": "5.11.3",
+                "bundleID": "com.google.ios.youtubemusic",
+                "description": "YT Music"
+            },
+            {
+                "name": "Manga Reader",
+                "icon": "f6a4b9853d11",
+                "version": "1.305",
+                "bundleID": "com.twyt.manhuawu",
+                "description": "Mange Reader App"
+            }
+        ]
+    }
+
+
+
+}
