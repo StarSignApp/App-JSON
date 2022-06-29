@@ -25,14 +25,14 @@
 
 		],
 		"social": [{
-				"name": "Kodi",
+				"name": "Sm 1",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
 				"bundleID": "org.xbmc.kodi-ios",
 				"description": "Kodi iOS"
 			},
 			{
-				"name": "YouTube Music",
+				"name": "SM 2",
 				"icon": "b5933c06d10d",
 				"version": "5.11.3",
 				"bundleID": "com.google.ios.youtubemusic",
