@@ -47,7 +47,7 @@
 			}
 		],
 		"entertainment": [{
-				"name": "Kodi",
+				"name": "Kodi ",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
 				"bundleID": "org.xbmc.kodi-ios",
@@ -69,7 +69,7 @@
 			}
 		],
 		"games": [{
-				"name": "Kodi",
+				"name": "CClash",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
 				"bundleID": "org.xbmc.kodi-ios",
