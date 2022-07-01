@@ -25,21 +25,21 @@
 
 		],
 		"social": [{
-				"name": "Sm 1",
+				"name": "Social Media 1",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
 				"bundleID": "org.xbmc.kodi-ios",
 				"description": "Kodi iOS"
 			},
 			{
-				"name": "SM 2",
+				"name": "Social Media 2",
 				"icon": "b5933c06d10d",
 				"version": "5.11.3",
 				"bundleID": "com.google.ios.youtubemusic",
 				"description": "YT Music"
 			},
 			{
-				"name": "Manga Reader",
+				"name": "Social Media 3",
 				"icon": "f6a4b9853d11",
 				"version": "1.305",
 				"bundleID": "com.twyt.manhuawu",
