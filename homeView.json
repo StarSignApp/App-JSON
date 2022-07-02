@@ -129,7 +129,28 @@
 				"bundleID": "com.twyt.manhuawu",
 				"description": "Manga Reader App"
 			},
-				  
+			{
+				"name": "Kodi",
+				"icon": "cbe40c16491c",
+				"version": "19.4",
+				"bundleID": "org.xbmc.kodi-ios",
+				"description": "Kodi iOS"
+			},
+			{
+				"name": "YouTube Music",
+				"icon": "b5933c06d10d",
+				"version": "5.11.3",
+				"bundleID": "com.google.ios.youtubemusic",
+				"description": "YT Music"
+			},
+			{
+				"name": "Manga Reader app",
+				"icon": "f6a4b9853d11",
+				"version": "1.305",
+				"bundleID": "com.twyt.manhuawu",
+				"description": "Manga Reader App"
+			},
+			{
 				"name": "Kod",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
@@ -150,7 +171,7 @@
 				"bundleID": "com.twyt.manhuawu",
 				"description": "Manga Reader App"
 			},
-
+			{
 				"name": "Kod",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
@@ -171,28 +192,7 @@
 				"bundleID": "com.twyt.manhuawu",
 				"description": "Manga Reader App"
 			},
-
-				"name": "Kod",
-				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Kodi iOS"
-			},
 			{
-				"name": "YouTube Music",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
-			},
-			{
-				"name": "Manga Reader app",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Manga Reader App"
-			},
-
 				"name": "Kod",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
@@ -235,7 +235,7 @@
 				"bundleID": "com.twyt.manhuawu",
 				"description": "Mange Reader App"
 			},
-			   {
+			{
 				"name": "Twitter++",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
@@ -256,7 +256,7 @@
 				"bundleID": "com.twyt.manhuawu",
 				"description": "Mange Reader App"
 			},
-			   {
+			{
 				"name": "Twitter++",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
@@ -277,7 +277,7 @@
 				"bundleID": "com.twyt.manhuawu",
 				"description": "Mange Reader App"
 			},
-			   {
+			{
 				"name": "Twitter++",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
