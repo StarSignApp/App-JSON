@@ -6,7 +6,7 @@
 				"icon": "d287b3d1b08d",
 				"version": "17.0.0",
 				"bundleID": "com.google.ios.youtube",
-				"description": "Tweaked YouTube for iOS 15.4 - 16.0. COntains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
+				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
 			},
 			{
 				"name": "Spotify++",
@@ -24,12 +24,34 @@
 			}
 
 		],
-		"social": [{
-				"name": "Social Media 1",
+		"entertainment": [{
+				"name": "Kod",
 				"icon": "cbe40c16491c",
 				"version": "19.4",
 				"bundleID": "org.xbmc.kodi-ios",
 				"description": "Kodi iOS"
+			},
+			{
+				"name": "YouTube Music",
+				"icon": "b5933c06d10d",
+				"version": "5.11.3",
+				"bundleID": "com.google.ios.youtubemusic",
+				"description": "YT Music"
+			},
+			{
+				"name": "Manga Reader app",
+				"icon": "f6a4b9853d11",
+				"version": "1.305",
+				"bundleID": "com.twyt.manhuawu",
+				"description": "Manga Reader App"
+			}
+		],
+		"social": [{
+				"name": "Twitter++",
+				"icon": "cbe40c16491c",
+				"version": "19.4",
+				"bundleID": "org.xbmc.kodi-ios",
+				"description": "Twitter with Tweaks"
 			},
 			{
 				"name": "Social Media 2",
@@ -39,29 +61,7 @@
 				"description": "YT Music"
 			},
 			{
-				"name": "Social Media 3",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Mange Reader App"
-			}
-		],
-		"entertainment": [{
-				"name": "Entertainment 1",
-				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Kodi iOS"
-			},
-			{
-				"name": "Entertainment 2",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
-			},
-			{
-				"name": "Entertainment 3",
+				"name": "Manga App",
 				"icon": "f6a4b9853d11",
 				"version": "1.305",
 				"bundleID": "com.twyt.manhuawu",
@@ -73,7 +73,7 @@
 				"icon": "cbe40c16491c",
 				"version": "19.4",
 				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Kodi iOS"
+				"description": "Nulls Clash with unlimited resources (/max), return of global chat (/g), and self-attacking (/asp)."
 			},
 			{
 				"name": "Nulls Royale",
