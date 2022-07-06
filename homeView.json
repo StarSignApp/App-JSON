@@ -4,215 +4,146 @@
 		"top": [{
 				"name": "uYou+",
 				"icon": "d287b3d1b08d",
-				"version": "17.0.0",
-				"bundleID": "com.google.ios.youtube",
+				"version": "17.25.1",
+				"bundleID": "co.starfiles.16178298782348",
 				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
 			},
 			{
 				"name": "Spotify++",
 				"icon": "st-g8OX-eoz8Vwnd",
-				"version": "2.0.0",
+				"version": "8.6.22",
 				"bundleID": "co.starfiles.1617827720",
 				"description": "Spotify with enhancements"
 			},
 			{
 				"name": "Enmity",
 				"icon": "5b4ea5d567ef",
-				"version": "131.0",
+				"version": "133.0",
 				"bundleID": "com.hammerandchisel.discord",
 				"description": "Discord with tweaks"
 			},
 			{
-				"name": "uYou+",
+				"name": "HDO player",
 				"icon": "d287b3d1b08d",
-				"version": "17.0.0",
-				"bundleID": "com.google.ios.youtube",
-				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
+				"version": "1.1.0",
+				"bundleID": "co.starfiles.7890234978",
+				"description": "Best movie app around"
 			},
 			{
-				"name": "Spotify++",
+				"name": "Instagram",
 				"icon": "st-g8OX-eoz8Vwnd",
-				"version": "2.0.0",
-				"bundleID": "co.starfiles.1617827720",
-				"description": "Spotify with enhancements"
+				"version": "241.0",
+				"bundleID": "co.starfiles.89745098",
+				"description": "Tweaked instagram including hiding ads and saving posts to Camera Roll"
 			},
 			{
-				"name": "Enmity",
+				"name": "Zinitevi",
 				"icon": "5b4ea5d567ef",
-				"version": "131.0",
-				"bundleID": "com.hammerandchisel.discord",
-				"description": "Discord with tweaks"
+				"version": "1.4.9",
+				"bundleID": "co.starfiles.90781234078",
+				"description": "Movie watching apps using torrents and includes downloads"
 			},
 			{
-				"name": "uYou+",
+				"name": "Delta",
 				"icon": "d287b3d1b08d",
-				"version": "17.0.0",
-				"bundleID": "com.google.ios.youtube",
-				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
+				"version": "1.3.1",
+				"bundleID": "co.starfiles.1380734667",
+				"description": "All in 1 emulator supporting NES, SNES, GB, GBA, N64, DS and more!"
 			},
 			{
-				"name": "Spotify++",
+				"name": "Filza Escaped",
 				"icon": "st-g8OX-eoz8Vwnd",
-				"version": "2.0.0",
-				"bundleID": "co.starfiles.1617827720",
-				"description": "Spotify with enhancements"
+				"version": "3.7",
+				"bundleID": "co.starfiles.56478900012",
+				"description": "Root file system manager for IOS 15-15.1.1"
 			},
 			{
-				"name": "Enmity",
+				"name": "Tik Tok",
 				"icon": "5b4ea5d567ef",
-				"version": "131.0",
-				"bundleID": "com.hammerandchisel.discord",
-				"description": "Discord with tweaks"
+				"version": "25.0.0",
+				"bundleID": "co.starfiles.35923467890",
+				"description": "Tik Tok tweaked with DLTikTok"
 			},
 			{
-				"name": "uYou+",
+				"name": "YT Music",
 				"icon": "d287b3d1b08d",
-				"version": "17.0.0",
-				"bundleID": "com.google.ios.youtube",
-				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
-			},
-			{
-				"name": "Spotify++",
-				"icon": "st-g8OX-eoz8Vwnd",
-				"version": "2.0.0",
-				"bundleID": "co.starfiles.1617827720",
-				"description": "Spotify with enhancements"
-			},
-			{
-				"name": "Enmity",
-				"icon": "5b4ea5d567ef",
-				"version": "131.0",
-				"bundleID": "com.hammerandchisel.discord",
-				"description": "Discord with tweaks"
-			},
-			{
-				"name": "uYou+",
-				"icon": "d287b3d1b08d",
-				"version": "17.0.0",
-				"bundleID": "com.google.ios.youtube",
-				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
-			},
-			{
-				"name": "Spotify++",
-				"icon": "st-g8OX-eoz8Vwnd",
-				"version": "2.0.0",
-				"bundleID": "co.starfiles.1617827720",
-				"description": "Spotify with enhancements"
-			},
-			{
-				"name": "Enmity",
-				"icon": "5b4ea5d567ef",
-				"version": "131.0",
-				"bundleID": "com.hammerandchisel.discord",
-				"description": "Discord with tweaks"
+				"version": "5.12.2",
+				"bundleID": "co.starfiles.123476780",
+				"description": "Unlocked Youtube Music premium without downloads"
 			}
-
+			
 		],
 		"entertainment": [{
-				"name": "Kod",
-				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Kodi iOS"
+				"name": "uYou+",
+				"icon": "d287b3d1b08d",
+				"version": "17.25.1",
+				"bundleID": "co.starfiles.16178298782348",
+				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
 			},
 			{
-				"name": "YouTube Music",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
+				"name": "Spotify++",
+				"icon": "st-g8OX-eoz8Vwnd",
+				"version": "8.6.22",
+				"bundleID": "co.starfiles.1617827720",
+				"description": "Spotify with enhancements"
 			},
 			{
-				"name": "Manga Reader app",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Manga Reader App"
+				"name": "Streamer",
+				"icon": "5b4ea5d567ef",
+				"version": "1.2.4",
+				"bundleID": "co.starfiles.40357987",
+				"description": "Movie app using websites as sources"
+			},
+			{
+				"name": "HDO player",
+				"icon": "d287b3d1b08d",
+				"version": "1.1.0",
+				"bundleID": "co.starfiles.7890234978",
+				"description": "Best movie app around"
 			},
 			{
 				"name": "Kodi",
-				"icon": "cbe40c16491c",
+				"icon": "st-g8OX-eoz8Vwnd",
 				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Kodi iOS"
+				"bundleID": "co.starfiles.48908907890",
+				"description": "Software media player and entertainment hub"
 			},
 			{
-				"name": "YouTube Music",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
+				"name": "Zinitevi",
+				"icon": "5b4ea5d567ef",
+				"version": "1.4.9",
+				"bundleID": "co.starfiles.90781234078",
+				"description": "Movie watching apps using torrents and includes downloads"
 			},
 			{
-				"name": "Manga Reader app",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Manga Reader App"
+				"name": "Media box",
+				"icon": "d287b3d1b08d",
+				"version": "2.49",
+				"bundleID": "co.starfiles.4527904345",
+				"description": "Uses torrents for movies and series with no ads"
 			},
 			{
-				"name": "Kod",
-				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Kodi iOS"
+				"name": "Musix Match",
+				"icon": "st-g8OX-eoz8Vwnd",
+				"version": "3.7",
+				"bundleID": "co.starfiles.4576329847",
+				"description": "App that provides synchronised lyrics to songs with premium unlocked"
 			},
 			{
-				"name": "YouTube Music",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
+				"name": "Deezer",
+				"icon": "5b4ea5d567ef",
+				"version": "7.15",
+				"bundleID": "co.starfiles.98170423957",
+				"description": "Music with offline mode, doesn't work for everyone"
 			},
 			{
-				"name": "Manga Reader app",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Manga Reader App"
-			},
-			{
-				"name": "Kod",
-				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Kodi iOS"
-			},
-			{
-				"name": "YouTube Music",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
-			},
-			{
-				"name": "Manga Reader app",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Manga Reader App"
-			},
-			{
-				"name": "Kod",
-				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Kodi iOS"
-			},
-			{
-				"name": "YouTube Music",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
-			},
-			{
-				"name": "Manga Reader app",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Manga Reader App"
+				"name": "YT Music",
+				"icon": "d287b3d1b08d",
+				"version": "5.12.2",
+				"bundleID": "co.starfiles.123476780",
+				"description": "Unlocked Youtube Music premium without downloads"
 			}
+			
 		],
 		"social": [{
 				"name": "Twitter++",
@@ -222,103 +153,138 @@
 				"description": "Twitter with Tweaks"
 			},
 			{
-				"name": "Social Media 2",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
+				"name": "Jodel",
+				"icon": "d287b3d1b08d",
+				"version": "7.37",
+				"bundleID": "co.starfiles.23497890",
+				"description": "Tweaked with F7K for jodel"
 			},
 			{
 				"name": "Manga App",
 				"icon": "f6a4b9853d11",
 				"version": "1.305",
 				"bundleID": "com.twyt.manhuawu",
-				"description": "Mange Reader App"
+				"description": "Manga Reader App"
 			},
 			{
-				"name": "Twitter++",
+				"name": "Instagram",
+				"icon": "st-g8OX-eoz8Vwnd",
+				"version": "241.0",
+				"bundleID": "co.starfiles.89745098",
+				"description": "Tweaked instagram including hiding ads and saving posts to Camera Roll"
+			},
+			{
+				"name": "Tik Tok",
+				"icon": "5b4ea5d567ef",
+				"version": "25.0.0",
+				"bundleID": "co.starfiles.35923467890",
+				"description": "Tik Tok tweaked with DLTikTok"
+			},
+			{
+				"name": "Facebook",
+				"icon": "f6a4b9853d11",
+				"version": "372.0",
+				"bundleID": "co.starfiles.1212645475",
+				"description": "Tweaked with wolf for facebook"
+			},
+			{
+				"name": "Messenger",
 				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Twitter with Tweaks"
+				"version": "366.1",
+				"bundleID": "co.starfiles.26548904568",
+				"description": "Tweaked with shark for messenger"
 			},
 			{
-				"name": "Social Media 2",
+				"name": "Twitch",
 				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
+				"version": "13.1",
+				"bundleID": "co.starfiles.278478089",
+				"description": "Tweaked with Twitch Toolbox"
 			},
 			{
-				"name": "Manga App",
+				"name": "Whatsapp",
 				"icon": "f6a4b9853d11",
 				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Mange Reader App"
+				"bundleID": "co.starfiles.918875890",
+				"description": "Whatsapp with Watsi 3"
 			},
 			{
-				"name": "Twitter++",
-				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Twitter with Tweaks"
-			},
-			{
-				"name": "Social Media 2",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
-			},
-			{
-				"name": "Manga App",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Mange Reader App"
-			},
-			{
-				"name": "Twitter++",
-				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
-				"description": "Twitter with Tweaks"
-			},
-			{
-				"name": "Social Media 2",
-				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
-			},
-			{
-				"name": "Manga App",
-				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Mange Reader App"
+				"name": "Enmity",
+				"icon": "5b4ea5d567ef",
+				"version": "133.0",
+				"bundleID": "com.hammerandchisel.discord",
+				"description": "Discord with tweaks"
 			}
 		],
 		"games": [{
 				"name": "Nulls Clash",
 				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
+				"version": "3.2803.4",
+				"bundleID": "co.starfiles.2394850892",
 				"description": "Nulls Clash with unlimited resources (/max), return of global chat (/g), and self-attacking (/asp)."
 			},
 			{
-				"name": "Nulls Royale",
+				"name": "Minecraft",
 				"icon": "b5933c06d10d",
-				"version": "5.11.3",
-				"bundleID": "com.google.ios.youtubemusic",
-				"description": "YT Music"
+				"version": "1.18.31",
+				"bundleID": "co.starfiles.2148895759",
+				"description": "It's minecraft"
 			},
 			{
-				"name": "Games 3",
+				"name": "Bloons td 6",
 				"icon": "f6a4b9853d11",
-				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
-				"description": "Mange Reader App"
+				"version": "31.2",
+				"bundleID": "co.starfiles.4987680309",
+				"description": "Tower defense game"
+},
+			{
+				"name": "True Skate",
+				"icon": "st-g8OX-eoz8Vwnd",
+				"version": "1.5.46",
+				"bundleID": "co.starfiles.1340998208",
+				"description": "Hacked sandbox skating game"
+			},
+			{
+				"name": "NBA 2k22",
+				"icon": "5b4ea5d567ef",
+				"version": "1.5.0",
+				"bundleID": "co.starfiles.07345704308",
+				"description": "Best-selling basketball game"
+			},
+			{
+				"name": "COD Mobile",
+				"icon": "f6a4b9853d11",
+				"version": "1.0.32",
+				"bundleID": "co.starfiles.988764890357",
+				"description": "Call Of Duty mobile, shooting games, with hacks, use an alt because you may get banned"
+			},
+			{
+				"name": "PUPG",
+				"icon": "cbe40c16491c",
+				"version": "2.0/1.1",
+				"bundleID": "co.starfiles.09342567890",
+				"description": "Battle Royale shooter game with hacks, use an alt because you may get banned"
+			},
+			{
+				"name": "Alto's Odyssey",
+				"icon": "b5933c06d10d",
+				"version": "1.1.4",
+				"bundleID": "co.starfiles.3985876903",
+				"description": "Sandboarding journey game to find The Lost City"
+			},
+			{
+				"name": "IPOGO",
+				"icon": "f6a4b9853d11",
+				"version": "2.5.6",
+				"bundleID": "co.starfiles.47680475",
+				"description": "Tweaked version of pokemon go allowing you to teleport"
+			},
+			{
+				"name": "8 Ball Pool",
+				"icon": "5b4ea5d567ef",
+				"version": "5.7.1",
+				"bundleID": "co.starfiles.87698373",
+				"description": "Hacked 8 Ball Pool game - Extends the guideline length- Skips tutorials- Unlimited guidelines enabled in all game modes"
 			}
 		]
 	}
