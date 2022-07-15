@@ -4,21 +4,21 @@
 		"top": [{
 				"name": "uYou+",
 				"icon": "d287b3d1b08d",
-				"version": "17.25.1",
-				"bundleID": "co.starfiles.16178298782348",
+				"version": "17.26.2",
+				"bundleID": "com.google.ios.youtube",
 				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
 			},
 			{
 				"name": "Spotify++",
 				"icon": "st-g8OX-eoz8Vwnd",
 				"version": "8.6.22",
-				"bundleID": "co.starfiles.1617827720",
+				"bundleID": "com.spotify.client",
 				"description": "Spotify with enhancements"
 			},
 			{
 				"name": "Enmity",
 				"icon": "5b4ea5d567ef",
-				"version": "133.0",
+				"version": "134.0",
 				"bundleID": "com.hammerandchisel.discord",
 				"description": "Discord with tweaks"
 			},
@@ -26,21 +26,21 @@
 				"name": "HDO player",
 				"icon": "d287b3d1b08d",
 				"version": "1.1.0",
-				"bundleID": "co.starfiles.7890234978",
+				"bundleID": "com.schedule.advanced.movies",
 				"description": "Best movie app around"
 			},
 			{
 				"name": "Instagram",
 				"icon": "st-g8OX-eoz8Vwnd",
-				"version": "241.0",
-				"bundleID": "co.starfiles.89745098",
+				"version": "243.0",
+				"bundleID": "com.burbn.instagram",
 				"description": "Tweaked instagram including hiding ads and saving posts to Camera Roll"
 			},
 			{
 				"name": "Zinitevi",
 				"icon": "5b4ea5d567ef",
 				"version": "1.4.9",
-				"bundleID": "co.starfiles.90781234078",
+				"bundleID": "com.z.movies.tv.shows.zin",
 				"description": "Movie watching apps using torrents and includes downloads"
 			},
 			{
@@ -61,14 +61,14 @@
 				"name": "Tik Tok",
 				"icon": "5b4ea5d567ef",
 				"version": "25.0.0",
-				"bundleID": "co.starfiles.35923467890",
+				"bundleID": "com.zhiliaoapp.musically",
 				"description": "Tik Tok tweaked with DLTikTok"
 			},
 			{
 				"name": "YT Music",
 				"icon": "d287b3d1b08d",
-				"version": "5.12.2",
-				"bundleID": "co.starfiles.123476780",
+				"version": "5.13.1",
+				"bundleID": "com.google.ios.youtubemusic",
 				"description": "Unlocked Youtube Music premium without downloads"
 			}
 			
@@ -76,21 +76,21 @@
 		"entertainment": [{
 				"name": "uYou+",
 				"icon": "d287b3d1b08d",
-				"version": "17.25.1",
-				"bundleID": "co.starfiles.16178298782348",
+				"version": "17.26.2",
+				"bundleID": "com.google.ios.youtube",
 				"description": "Tweaked YouTube for iOS 15.4 - 16.0. Contains uYou, Picture-in-Picture, Ad-Free, SponsorBlock, and more!"
 			},
 			{
 				"name": "Spotify++",
 				"icon": "st-g8OX-eoz8Vwnd",
 				"version": "8.6.22",
-				"bundleID": "co.starfiles.1617827720",
+				"bundleID": "com.spotify.client",
 				"description": "Spotify with enhancements"
 			},
 			{
 				"name": "Streamer",
 				"icon": "5b4ea5d567ef",
-				"version": "1.2.4",
+				"version": "1.2.5",
 				"bundleID": "co.starfiles.40357987",
 				"description": "Movie app using websites as sources"
 			},
@@ -98,7 +98,7 @@
 				"name": "HDO player",
 				"icon": "d287b3d1b08d",
 				"version": "1.1.0",
-				"bundleID": "co.starfiles.7890234978",
+				"bundleID": "com.schedule.advanced.movies",
 				"description": "Best movie app around"
 			},
 			{
@@ -112,7 +112,7 @@
 				"name": "Zinitevi",
 				"icon": "5b4ea5d567ef",
 				"version": "1.4.9",
-				"bundleID": "co.starfiles.90781234078",
+				"bundleID": "com.z.movies.tv.shows.zin",
 				"description": "Movie watching apps using torrents and includes downloads"
 			},
 			{
@@ -126,21 +126,21 @@
 				"name": "Musix Match",
 				"icon": "st-g8OX-eoz8Vwnd",
 				"version": "3.7",
-				"bundleID": "co.starfiles.4576329847",
+				"bundleID": "com.musixmatch.lyrics",
 				"description": "App that provides synchronised lyrics to songs with premium unlocked"
 			},
 			{
 				"name": "Deezer",
 				"icon": "5b4ea5d567ef",
 				"version": "7.15",
-				"bundleID": "co.starfiles.98170423957",
+				"bundleID": "com.deezer.Deezer",
 				"description": "Music with offline mode, doesn't work for everyone"
 			},
 			{
 				"name": "YT Music",
 				"icon": "d287b3d1b08d",
-				"version": "5.12.2",
-				"bundleID": "co.starfiles.123476780",
+				"version": "5.13.1",
+				"bundleID": "com.google.ios.youtubemusic",
 				"description": "Unlocked Youtube Music premium without downloads"
 			}
 			
@@ -148,70 +148,70 @@
 		"social": [{
 				"name": "Twitter++",
 				"icon": "cbe40c16491c",
-				"version": "19.4",
-				"bundleID": "org.xbmc.kodi-ios",
+				"version": "9.14",
+				"bundleID": "com.atebits.Tweetie2",
 				"description": "Twitter with Tweaks"
 			},
 			{
 				"name": "Jodel",
 				"icon": "d287b3d1b08d",
 				"version": "7.37",
-				"bundleID": "co.starfiles.23497890",
+				"bundleID": "com.go-tellm.tellm",
 				"description": "Tweaked with F7K for jodel"
 			},
 			{
 				"name": "Manga App",
 				"icon": "f6a4b9853d11",
 				"version": "1.305",
-				"bundleID": "com.twyt.manhuawu",
+				"bundleID": "com.khongphuong.mangareader",
 				"description": "Manga Reader App"
 			},
 			{
 				"name": "Instagram",
 				"icon": "st-g8OX-eoz8Vwnd",
-				"version": "241.0",
-				"bundleID": "co.starfiles.89745098",
+				"version": "243.0",
+				"bundleID": "com.burbn.instagram",
 				"description": "Tweaked instagram including hiding ads and saving posts to Camera Roll"
 			},
 			{
 				"name": "Tik Tok",
 				"icon": "5b4ea5d567ef",
 				"version": "25.0.0",
-				"bundleID": "co.starfiles.35923467890",
+				"bundleID": "com.zhiliaoapp.musically",
 				"description": "Tik Tok tweaked with DLTikTok"
 			},
 			{
 				"name": "Facebook",
 				"icon": "f6a4b9853d11",
 				"version": "372.0",
-				"bundleID": "co.starfiles.1212645475",
+				"bundleID": "com.facebook.Facebook",
 				"description": "Tweaked with wolf for facebook"
 			},
 			{
 				"name": "Messenger",
 				"icon": "cbe40c16491c",
 				"version": "366.1",
-				"bundleID": "co.starfiles.26548904568",
+				"bundleID": "com.facebook.Messenger",
 				"description": "Tweaked with shark for messenger"
 			},
 			{
 				"name": "Twitch",
 				"icon": "b5933c06d10d",
 				"version": "13.1",
-				"bundleID": "co.starfiles.278478089",
+				"bundleID": "tv.twitch",
 				"description": "Tweaked with Twitch Toolbox"
 			},
 			{
 				"name": "Whatsapp",
 				"icon": "f6a4b9853d11",
 				"version": "1.305",
-				"bundleID": "co.starfiles.918875890",
+				"bundleID": "net.whatsapp.WhatsApp",
 				"description": "Whatsapp with Watsi 3"
 			},
 			{
 				"name": "Enmity",
 				"icon": "5b4ea5d567ef",
-				"version": "133.0",
+				"version": "134.0",
 				"bundleID": "com.hammerandchisel.discord",
 				"description": "Discord with tweaks"
 			}
@@ -220,47 +220,47 @@
 				"name": "Nulls Clash",
 				"icon": "cbe40c16491c",
 				"version": "3.2803.4",
-				"bundleID": "co.starfiles.2394850892",
+				"bundleID": "com.supercell.scroll",
 				"description": "Nulls Clash with unlimited resources (/max), return of global chat (/g), and self-attacking (/asp)."
 			},
 			{
 				"name": "Minecraft",
 				"icon": "b5933c06d10d",
-				"version": "1.18.31",
-				"bundleID": "co.starfiles.2148895759",
-				"description": "It's minecraft"
+				"version": "1.19.10",
+				"bundleID": "com.mojang.minecraftpe",
+				"description": "RIP Technoblade"
 			},
 			{
 				"name": "Bloons td 6",
 				"icon": "f6a4b9853d11",
 				"version": "31.2",
-				"bundleID": "co.starfiles.4987680309",
+				"bundleID": "com.ninjakiwi.bloonstd6",
 				"description": "Tower defense game"
-},
+                        },
 			{
 				"name": "True Skate",
 				"icon": "st-g8OX-eoz8Vwnd",
 				"version": "1.5.46",
-				"bundleID": "co.starfiles.1340998208",
+				"bundleID": "com.trueaxis.skate",
 				"description": "Hacked sandbox skating game"
 			},
 			{
 				"name": "NBA 2k22",
 				"icon": "5b4ea5d567ef",
 				"version": "1.5.0",
-				"bundleID": "co.starfiles.07345704308",
+				"bundleID": "com.2ksports.nba2k22arcade",
 				"description": "Best-selling basketball game"
 			},
 			{
 				"name": "COD Mobile",
 				"icon": "f6a4b9853d11",
 				"version": "1.0.32",
-				"bundleID": "co.starfiles.988764890357",
+				"bundleID": "com.activision.callofduty.shooter",
 				"description": "Call Of Duty mobile, shooting games, with hacks, use an alt because you may get banned"
 			},
 			{
 				"name": "PUPG",
-				"icon": "cbe40c16491c",
+				"icon": "com.tencent.ig",
 				"version": "2.0/1.1",
 				"bundleID": "co.starfiles.09342567890",
 				"description": "Battle Royale shooter game with hacks, use an alt because you may get banned"
@@ -269,24 +269,223 @@
 				"name": "Alto's Odyssey",
 				"icon": "b5933c06d10d",
 				"version": "1.1.4",
-				"bundleID": "co.starfiles.3985876903",
+				"bundleID": "com.snowman.altos-odyssey",
 				"description": "Sandboarding journey game to find The Lost City"
 			},
 			{
 				"name": "IPOGO",
 				"icon": "f6a4b9853d11",
-				"version": "2.5.6",
-				"bundleID": "co.starfiles.47680475",
+				"version": "2.6.0",
+				"bundleID": "com.nianticlabs.pokemongo",
 				"description": "Tweaked version of pokemon go allowing you to teleport"
 			},
 			{
 				"name": "8 Ball Pool",
 				"icon": "5b4ea5d567ef",
 				"version": "5.7.1",
-				"bundleID": "co.starfiles.87698373",
+				"bundleID": "com.miniclip.8ballpoolmult",
 				"description": "Hacked 8 Ball Pool game - Extends the guideline length- Skips tutorials- Unlimited guidelines enabled in all game modes"
 			}
-		]
+		],
+		"Tweaked apps": [{
+				"name": "Filza Escaped",
+				"icon": "cbe40c16491c",
+				"version": "3.7",
+				"bundleID": "bundle",
+				"description": "Root file system manager for IOS 15-15.1.1"
+			},
+			{
+				"name": "iTorrent",
+				"icon": "b5933c06d10d",
+				"version": "1.8.4 dev3",
+				"bundleID": "bundle",
+				"description": "Torrenting client for IOS"
+			},
+			{
+				"name": "Infuse",
+				"icon": "f6a4b9853d11",
+				"version": "7.4.1",
+				"bundleID": "com.firecore.infuse",
+				"description": "Best Video player out there"
+                        },
+			{
+				"name": "Procreate",
+				"icon": "st-g8OX-eoz8Vwnd",
+				"version": "5.26",
+				"bundleID": "bundle",
+				"description": "Very cool picture editor for iPad"
+			},
+			{
+				"name": "Procreate Pocket",
+				"icon": "5b4ea5d567ef",
+				"version": "4.06",
+				"bundleID": "au.com.savageinteractive.procreate-pocket",
+				"description": "Very cool picture editor for iPhone"
+			},
+			{
+				"name": "Picsart",
+				"icon": "f6a4b9853d11",
+				"version": "19.6.5",
+				"bundleID": "com.picsart.studio",
+				"description": "Platform for photo and video editing"
+			},
+			{
+				"name": "Lumafusion",
+				"icon": "com.tencent.ig",
+				"version": "3.0.11",
+				"bundleID": "com.luma-touch.LumaFusion",
+				"description": "Best video editor, needs IOS 15.4"
+			},
+			{
+				"name": "Photoshop Express",
+				"icon": "b5933c06d10d",
+				"version": "22.16.0",
+				"bundleID": "com.adobe.PSMobile",
+				"description": "Adobe's photo editor for IOS"
+			},
+			{
+				"name": "Text Now",
+				"icon": "f6a4b9853d11",
+				"version": "22.19.1",
+				"bundleID": "com.nianticlabs.pokemongo",
+				"description": "com.tinginteractive.usms"
+			},
+			{
+				"name": "Notability",
+				"icon": "5b4ea5d567ef",
+				"version": "10.6",
+				"bundleID": "com.gingerlabs.Notability",
+				"description": "Note taking and PDF editing application for iPad"
+			}
+	        ],    
+		"Emulators": [{
+				"name": "Delta",
+				"icon": "cbe40c16491c",
+				"version": "1.3.1",
+				"bundleID": "bundle",
+				"description": "All in 1 emulator. Supports NES, SNES, GB, GBA, N64, DS and more"
+			},
+			{
+				"name": "Provenance",
+				"icon": "b5933c06d10d",
+				"version": "2.1.0",
+				"bundleID": "bundle",
+				"description": "Multi-emulator supporting Sega Genesis and Master System, Game Gear, SNES"
+			},
+			{
+				"name": "UTM",
+				"icon": "f6a4b9853d11",
+				"version": "3.2.4",
+				"bundleID": "com.firecore.infuse",
+				"description": "UTM is a full featured virtual machine host for iOS. Needs JIT or jailbreak"
+                        },
+			{
+				"name": "Dolphin",
+				"icon": "st-g8OX-eoz8Vwnd",
+				"version": "3.2.0b2-186",
+				"bundleID": "bundle",
+				"description": "Emulator for Wii and Gamecube requiring JIT or jailbreak"
+			},
+			{
+				"name": "Happy Chick",
+				"icon": "5b4ea5d567ef",
+				"version": "1.5.8.2",
+				"bundleID": "bundle",
+				"description": "Emulator for GC, DC, N64, Android and GBA games"
+			},
+			{
+				"name": "Flycast",
+				"icon": "f6a4b9853d11",
+				"version": "1.3",
+				"bundleID": "bundle",
+				"description": "Flycast is a multi-platform Sega Dreamcast, Naomi and Atomiswave"
+			},
+			{
+				"name": "Retroarch",
+				"icon": "com.tencent.ig",
+				"version": "1.10.3",
+				"bundleID": "bundle",
+				"description": "Program to play emulators and games"
+			},
+			{
+				"name": "Play!",
+				"icon": "b5933c06d10d",
+				"version": "0.51-33",
+				"bundleID": "bundle",
+				"description": "PS2 emulator for IOS"
+			}
+		],
+		"Jailbreaks": [{
+				"name": "Unc0ver",
+				"icon": "cbe40c16491c",
+				"version": "8.0.2",
+				"bundleID": "bundle",
+				"description": "Jailbreak for IOS 11 to 14.8, check compatibility"
+			},
+			{
+				"name": "Taurine",
+				"icon": "b5933c06d10d",
+				"version": "1.1.3",
+				"bundleID": "bundle",
+				"description": "Taurine is a jailbreak app for iOS 14.0 - 14.3"
+			},
+			{
+				"name": "Thor",
+				"icon": "f6a4b9853d11",
+				"version": "looking",
+				"bundleID": "bundle",
+				"description": "Best Video player out there"
+                        },
+			{
+				"name": "Odyssey",
+				"icon": "st-g8OX-eoz8Vwnd",
+				"version": "1.4.1",
+				"bundleID": "bundle",
+				"description": "Jailbreak for jailbreaking iOS 13.0 - 13.7 on supported iPhone and iPad devices"
+			},
+			{
+				"name": "Chimera",
+				"icon": "5b4ea5d567ef",
+				"version": "1.6.2",
+				"bundleID": "bundle",
+				"description": "Chimera jailbreak is a jailbreak for iOS 12 devices also supporting A12"
+			},
+			{
+				"name": "Electra",
+				"icon": "f6a4b9853d11",
+				"version": "2.0",
+				"bundleID": "bundle",
+				"description": "Jailbreak for iOS 11.0 - iOS 11.4.1 on iPhone, iPad, and iPod touch"
+			},
+			{
+				"name": "G0blin",
+				"icon": "com.tencent.ig",
+				"version": "rc2",
+				"bundleID": "bundle",
+				"description": "A jailbreak for 64-bit devices on iOS 10.3 - iOS 10.3.3."
+			},
+			{
+				"name": "Doulbe H3lix",
+				"icon": "b5933c06d10d",
+				"version": "8.0",
+				"bundleID": "bundle",
+				"description": "IOS 10 jailbreak iPhone 5s, 6/6s. iPad Air 1/2, Pro, mini 2/3/4"
+			},
+			{
+				"name": "Saigon",
+				"icon": "f6a4b9853d11",
+				"version": "3.0",
+				"bundleID": "bundle",
+				"description": "Saigon Jailbreak for iOS 10.2.1 for: iPhone 6 (all) iPod touch 6, iPad mini4 and Air 2"
+			},
+			{
+				"name": "Yalu",
+				"icon": "5b4ea5d567ef",
+				"version": "1.b7",
+				"bundleID": "bundle",
+				"description": "Yalu jailbreak for iOS 10 on iPhone, iPad, and iPod touch"
+			}
+	        ]
 	}
 
 
